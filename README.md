@@ -1,7 +1,5 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+<img width="320" alt="Schermafbeelding 2022-09-08 om 13 11 32" src="https://user-images.githubusercontent.com/89298385/189107901-a071ed1d-9ab8-4a79-82a2-82d7d06f1600.png">
 
-## Licentie
+<img width="320" alt="Schermafbeelding 2022-09-08 om 14 28 26" src="https://user-images.githubusercontent.com/89298385/189121836-0c9de97a-e41e-4bc9-90fa-5fb832751b1d.png">
 
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+In deze sessie pas ik de CSS functies toe op mijn product. Zo is de Breakdownschets een voorbeeld van wat ik op papier van plan ben en pas ik het toe in de IDE.
